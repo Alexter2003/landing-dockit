@@ -238,8 +238,8 @@ export default function Products() {
             name: 'Workspace Completo',
             description: 'El ecosistema completo Dockit para tu escritorio perfecto',
             products: ['basehub', 'voltbar', 'flexarm', 'glowbar'],
-            price: '$449',
-            originalPrice: '$616',
+            price: '$100',
+            originalPrice: '$150',
             discount: '27%'
         },
         {
@@ -247,8 +247,8 @@ export default function Products() {
             name: 'Mobile Pro',
             description: 'Perfecto para profesionales que trabajan desde cualquier lugar',
             products: ['basehub', 'pocketdock', 'voltbar'],
-            price: '$249',
-            originalPrice: '$337',
+            price: '$60',
+            originalPrice: '$80',
             discount: '26%'
         }
     ];
