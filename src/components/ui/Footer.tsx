@@ -167,7 +167,7 @@ export default function Footer() {
                         <div className="flex items-center space-x-6 mt-4 md:mt-0">
                             <span className="text-gray-400 text-sm">Hecho con ❤️ para Latinoamérica</span>
                             <div className="flex items-center space-x-2">
-                                <span className="text-gray-400 text-sm">🇲🇽 México</span>
+                                <span className="text-gray-400 text-sm">Guatemala</span>
                             </div>
                         </div>
                     </div>

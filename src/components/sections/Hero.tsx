@@ -47,7 +47,7 @@ export default function Hero() {
                         </a>
                         <a
                             href="#nosotros"
-                            className="border-2 border-gray-700 hover:border-blue-600 text-gray-800 hover:text-blue-600 px-8 py-4 rounded-xl font-semibold text-lg transition-all duration-300 hover:bg-blue-50"
+                            className="border-2 border-black hover:border-blue-600 text-black hover:text-blue-600 px-8 py-4 rounded-xl font-semibold text-lg transition-all duration-300 hover:bg-blue-50"
                         >
                             Conocer Más
                         </a>
